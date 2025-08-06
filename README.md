@@ -1,2 +1,2 @@
 # TestYoddha
-It's mock test website
+this is my first git repository 
